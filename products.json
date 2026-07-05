@@ -1,27 +1,67 @@
 [
-  {
-    "name": "Milk",
-    "category": "Dairy",
-    "image": "images/milk.jpg"
-  },
-  {
-    "name": "Bread",
-    "category": "Daily Needs",
-    "image": "images/bread.jpg"
-  },
-  {
-    "name": "Cold Drink",
-    "category": "Beverages",
-    "image": "images/colddrink.jpg"
-  },
-  {
-    "name": "Ice Cream",
-    "category": "Frozen",
-    "image": "images/icecream.jpg"
-  },
-  {
-    "name": "Balaji Chips",
-    "category": "Snacks",
-    "image": "images/balaji.jpg"
-  }
+  { "name": "Toothpaste", "category": "Hygiene", "image": "images/toothpaste.jpg" },
+  { "name": "Toothbrush", "category": "Hygiene", "image": "images/toothbrush.jpg" },
+
+  { "name": "Masala Mix", "category": "Spices", "image": "images/masala.jpg" },
+
+  { "name": "Soap", "category": "Hygiene", "image": "images/soap.jpg" },
+  { "name": "Surf Powder", "category": "Household", "image": "images/surf.jpg" },
+
+  { "name": "Cookies", "category": "Snacks", "image": "images/cookies.jpg" },
+  { "name": "Deluxe Toast", "category": "Bakery", "image": "images/toast.jpg" },
+  { "name": "Butter", "category": "Dairy", "image": "images/butter.jpg" },
+  { "name": "Buns", "category": "Bakery", "image": "images/buns.jpg" },
+  { "name": "Bread", "category": "Bakery", "image": "images/bread.jpg" },
+  { "name": "Khari", "category": "Bakery", "image": "images/khari.jpg" },
+  { "name": "Pista Toast", "category": "Bakery", "image": "images/pistatoast.jpg" },
+
+  { "name": "Candies", "category": "Sweets", "image": "images/candies.jpg" },
+  { "name": "Chocolates", "category": "Sweets", "image": "images/chocolate.jpg" },
+
+  { "name": "Balaji Chips", "category": "Snacks", "image": "images/balaji.jpg" },
+
+  { "name": "Fair & Lovely Cream", "category": "Beauty", "image": "images/cream.jpg" },
+  { "name": "Vicco Cream", "category": "Beauty", "image": "images/vicco.jpg" },
+  { "name": "Ponds Cream", "category": "Beauty", "image": "images/ponds.jpg" },
+  { "name": "Ponds Powder", "category": "Beauty", "image": "images/powder.jpg" },
+  { "name": "Rich Cream", "category": "Beauty", "image": "images/richcream.jpg" },
+
+  { "name": "Nisha Mehendi", "category": "Beauty", "image": "images/mehendi.jpg" },
+  { "name": "Zandu Balm", "category": "Health", "image": "images/zandu.jpg" },
+
+  { "name": "Shampoo Sachet", "category": "Hygiene", "image": "images/shampoo.jpg" },
+
+  { "name": "Eggs", "category": "Dairy", "image": "images/eggs.jpg" },
+
+  { "name": "Shengdana (Peanuts)", "category": "Dry Fruits", "image": "images/peanuts.jpg" },
+  { "name": "Masoor Dal", "category": "Groceries", "image": "images/masoordal.jpg" },
+  { "name": "Moong Dal", "category": "Groceries", "image": "images/moongdal.jpg" },
+  { "name": "Sabudana", "category": "Groceries", "image": "images/sabudana.jpg" },
+  { "name": "Toor Dal", "category": "Groceries", "image": "images/toordal.jpg" },
+  { "name": "Urad Dal", "category": "Groceries", "image": "images/uraddal.jpg" },
+  { "name": "Kala Chana", "category": "Groceries", "image": "images/chana.jpg" },
+  { "name": "White Chana", "category": "Groceries", "image": "images/whitechana.jpg" },
+
+  { "name": "Tea", "category": "Beverages", "image": "images/tea.jpg" },
+  { "name": "Bru Coffee", "category": "Beverages", "image": "images/bru.jpg" },
+
+  { "name": "Rice (Sharda Chand Tara)", "category": "Groceries", "image": "images/rice.jpg" },
+  { "name": "Bajra", "category": "Groceries", "image": "images/bajra.jpg" },
+  { "name": "Wheat", "category": "Groceries", "image": "images/wheat.jpg" },
+  { "name": "Sugar", "category": "Groceries", "image": "images/sugar.jpg" },
+
+  { "name": "Soybean Oil", "category": "Oil", "image": "images/oil.jpg" },
+
+  { "name": "Coconut Water", "category": "Beverages", "image": "images/coconut.jpg" },
+  { "name": "Pomegranate Juice", "category": "Beverages", "image": "images/juice.jpg" },
+
+  { "name": "Energy Drink", "category": "Beverages", "image": "images/energy.jpg" },
+
+  { "name": "Pampers S", "category": "Baby Care", "image": "images/pampers.jpg" },
+  { "name": "Pampers M", "category": "Baby Care", "image": "images/pampers.jpg" },
+  { "name": "Pampers L", "category": "Baby Care", "image": "images/pampers.jpg" },
+
+  { "name": "Battery Mini", "category": "Electronics", "image": "images/battery.jpg" },
+
+  { "name": "JJ Sweets", "category": "Sweets", "image": "images/sweets.jpg" }
 ]
