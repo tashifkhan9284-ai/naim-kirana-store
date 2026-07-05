@@ -7,7 +7,7 @@
   { "name": "Soap", "category": "Hygiene", "image": "images/soap.jpg" },
   { "name": "Surf Powder", "category": "Household", "image": "images/surf.jpg" },
 
-  { "name": "Cookies", "category": "Snacks", "image": "images/cookies.jpg" },
+  { "name": "parle Cookies", "category": "Snacks", "image": "images/cookies.jpg" },
   { "name": "Deluxe Toast", "category": "Bakery", "image": "images/toast.jpg" },
   { "name": "Butter", "category": "Dairy", "image": "images/butter.jpg" },
   { "name": "Buns", "category": "Bakery", "image": "images/buns.jpg" },
