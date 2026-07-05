@@ -1,5 +1,5 @@
 fetch("products.json")
-  .then(res => res.json())
+  .then(response => response.json())
   .then(data => {
 
     let container = document.createElement("div");
@@ -7,16 +7,16 @@ fetch("products.json")
     document.body.appendChild(container);
 
     data.forEach(product => {
-      let card = document.createElement("div");
-      card.className = "product-card";
 
-      card.innerHTML = `
+      let item = document.createElement("div");
+      item.className = "product-item";
+
+      item.innerHTML = `
         <img src="${product.image}" alt="${product.name}">
         <h3>${product.name}</h3>
-        <p>Category: ${product.category}</p>
       `;
 
-      container.appendChild(card);
+      container.appendChild(item);
     });
 
   });
