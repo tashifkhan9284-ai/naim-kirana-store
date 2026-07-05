@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Milk",
+    "price": 30,
+    "category": "Dairy",
+    "image": "images/milk.jpg"
+  },
+  {
+    "name": "Bread",
+    "price": 40,
+    "category": "Daily Needs",
+    "image": "images/bread.jpg"
+  },
+  {
+    "name": "Cold Drink",
+    "price": 60,
+    "category": "Beverages",
+    "image": "images/colddrink.jpg"
+  },
+  {
+    "name": "Ice Cream",
+    "price": 50,
+    "category": "Frozen",
+    "image": "images/icecream.jpg"
+  },
+  {
+    "name": "Balaji Chips",
+    "price": 20,
+    "category": "Snacks",
+    "image": "images/balaji.jpg"
+  }
+]
