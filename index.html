@@ -1,27 +1,46 @@
-<!DOCTYPE html>
-<html><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Naim Kirana Store</title>
+<!DOCTYPE html><html><head><meta charset='utf-8'><meta name='viewport' content='width=device-width,initial-scale=1'>
+<title>Naim Kirana Store Demo</title>
 <style>
-body{font-family:Arial;margin:0;background:#f5f5f5}header{background:#2e7d32;color:#fff;padding:15px;text-align:center}
-#search{width:90%;max-width:500px;padding:10px;margin:15px auto;display:block}
-.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:12px;padding:15px}
-.card{background:#fff;border-radius:8px;padding:10px;box-shadow:0 2px 5px #ccc;text-align:center}
-button{padding:8px 12px}
-</style></head>
-<body>
-<header><h1>Naim Kirana Store</h1><p>All Daily Needs Available</p></header>
-<input id="search" placeholder="Search products...">
-<div class="grid" id="grid"></div>
+body{font-family:Arial;margin:0;background:#eef2f3}header{background:#198754;color:#fff;padding:18px;text-align:center}
+input{display:block;width:90%;max-width:500px;margin:15px auto;padding:10px;border-radius:8px;border:1px solid #ccc}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:12px;padding:15px}
+.card{background:#fff;border-radius:10px;padding:10px;text-align:center;box-shadow:0 2px 5px rgba(0,0,0,.15)}
+.img{font-size:42px}footer{background:#222;color:#fff;text-align:center;padding:15px;margin-top:20px}
+</style></head><body>
+<header><h1>Naim Kirana Store</h1><p>Demo Kirana Website</p></header>
+<input id='q' placeholder='Search product...'>
+<div class='grid' id='grid'><div class='card'><div class='img'>🛒</div><h3>Toothpaste</h3><p>Available</p></div>
+<div class='card'><div class='img'>🛒</div><h3>Toothbrush</h3><p>Available</p></div>
+<div class='card'><div class='img'>🛒</div><h3>Masale</h3><p>Available</p></div>
+<div class='card'><div class='img'>🛒</div><h3>Soap</h3><p>Available</p></div>
+<div class='card'><div class='img'>🛒</div><h3>Surf</h3><p>Available</p></div>
+<div class='card'><div class='img'>🛒</div><h3>Cookies</h3><p>Available</p></div>
+<div class='card'><div class='img'>🛒</div><h3>Deluxe Toast</h3><p>Available</p></div>
+<div class='card'><div class='img'>🛒</div><h3>Butter</h3><p>Available</p></div>
+<div class='card'><div class='img'>🛒</div><h3>Buns</h3><p>Available</p></div>
+<div class='card'><div class='img'>🛒</div><h3>Bread</h3><p>Available</p></div>
+<div class='card'><div class='img'>🛒</div><h3>Khari</h3><p>Available</p></div>
+<div class='card'><div class='img'>🛒</div><h3>Kohinoor Pista Toast</h3><p>Available</p></div>
+<div class='card'><div class='img'>🛒</div><h3>Candies</h3><p>Available</p></div>
+<div class='card'><div class='img'>🛒</div><h3>Chocolates</h3><p>Available</p></div>
+<div class='card'><div class='img'>🛒</div><h3>Balaji Wafers</h3><p>Available</p></div>
+<div class='card'><div class='img'>🛒</div><h3>Ponds Cream</h3><p>Available</p></div>
+<div class='card'><div class='img'>🛒</div><h3>Ponds Powder</h3><p>Available</p></div>
+<div class='card'><div class='img'>🛒</div><h3>Vicco Cream</h3><p>Available</p></div>
+<div class='card'><div class='img'>🛒</div><h3>Fair & Lovely</h3><p>Available</p></div>
+<div class='card'><div class='img'>🛒</div><h3>Rich Cream</h3><p>Available</p></div>
+<div class='card'><div class='img'>🛒</div><h3>Nisha Mehndi</h3><p>Available</p></div>
+<div class='card'><div class='img'>🛒</div><h3>Zandu Balm</h3><p>Available</p></div>
+<div class='card'><div class='img'>🛒</div><h3>Shampoo Mini</h3><p>Available</p></div>
+<div class='card'><div class='img'>🛒</div><h3>Shampoo Large</h3><p>Available</p></div>
+<div class='card'><div class='img'>🛒</div><h3>Oil</h3><p>Available</p></div>
+<div class='card'><div class='img'>🛒</div><h3>Tea</h3><p>Available</p></div>
+<div class='card'><div class='img'>🛒</div><h3>Sugar</h3><p>Available</p></div>
+<div class='card'><div class='img'>🛒</div><h3>Salt</h3><p>Available</p></div>
+<div class='card'><div class='img'>🛒</div><h3>Rice</h3><p>Available</p></div>
+<div class='card'><div class='img'>🛒</div><h3>Atta</h3><p>Available</p></div></div>
+<footer>Home Delivery Available • Contact: +91-XXXXXXXXXX</footer>
 <script>
-let products=[
-{name:"Toothpaste"},{name:"Toothbrush"},{name:"Soap"},{name:"Surf"},
-{name:"Cookies"},{name:"Bread"},{name:"Butter"},{name:"Buns"},
-{name:"Khari"},{name:"Chocolate"},{name:"Candy"},{name:"Ponds Powder"},
-{name:"Vicco Cream"},{name:"Fair & Lovely"},{name:"Nisha Mehndi"},
-{name:"Zandu Balm"},{name:"Mini Shampoo"}
-];
-const grid=document.getElementById("grid");
-function show(list){grid.innerHTML="";list.forEach(p=>{grid.innerHTML+=`<div class='card'><h3>${p.name}</h3><p>Available</p><button>Enquiry</button></div>`})}
-show(products);
-search.oninput=e=>show(products.filter(p=>p.name.toLowerCase().includes(e.target.value.toLowerCase())));
+const all=[...document.querySelectorAll('.card')];
+q.oninput=e=>{let t=e.target.value.toLowerCase();all.forEach(c=>c.style.display=c.innerText.toLowerCase().includes(t)?'block':'none');};
 </script></body></html>
