@@ -1,22 +1,43 @@
+const container = document.getElementById("product-container");
+const search = document.getElementById("search");
+const category = document.getElementById("category");
+
+let products = [];
+
 fetch("products.json")
-  .then(response => response.json())
+  .then(res => res.json())
   .then(data => {
-
-    let container = document.createElement("div");
-    container.id = "product-container";
-    document.body.appendChild(container);
-
-    data.forEach(product => {
-
-      let item = document.createElement("div");
-      item.className = "product-item";
-
-      item.innerHTML = `
-        <img src="${product.image}" alt="${product.name}">
-        <h3>${product.name}</h3>
-      `;
-
-      container.appendChild(item);
-    });
-
+    products = data;
+    showProducts(products);
+  })
+  .catch(err => {
+    container.innerHTML = "<h2>Products load nahi hue!</h2>";
+    console.error(err);
   });
+
+function showProducts(list) {
+  container.innerHTML = "";
+
+  list.forEach(product => {
+    const card = document.createElement("div");
+    card.className = "product-item";
+
+    card.innerHTML = `
+      <img src="${product.image}"
+           alt="${product.name}"
+           onerror="this.src='images/no-image.png'">
+
+      <h3>${product.name}</h3>
+      <p>${product.category}</p>
+    `;
+
+    container.appendChild(card);
+  });
+}
+
+function filterProducts() {
+  const text = search.value.toLowerCase();
+  const cat = category.value;
+
+  const filtered = products.filter(product => {
+   
