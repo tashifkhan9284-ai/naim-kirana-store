@@ -1,70 +1,4 @@
 [
-  { "name": "Toothpaste", "category": "Hygiene", "image": "images/toothpaste.jpg" },
-  { "name": "Toothbrush", "category": "Hygiene", "image": "images/toothbrush.jpg" },
-
-  { "name": "Masala Mix", "category": "Spices", "image": "images/masala.jpg" },
-
-  { "name": "Soap", "category": "Hygiene", "image": "images/soap.jpg" },
-  { "name": "Surf Powder", "category": "Household", "image": "images/surf.jpg" },
-
-  { "name": "parle Cookies", "category": "Snacks", "image": "images/cookies.jpg" },
-  { "name": "Deluxe Toast", "category": "Bakery", "image": "images/toast.jpg" },
-  { "name": "Butter", "category": "Dairy", "image": "images/butter.jpg" },
-  { "name": "Buns", "category": "Bakery", "image": "images/buns.jpg" },
-  { "name": "Bread", "category": "Bakery", "image": "images/bread.jpg" },
-  { "name": "Khari", "category": "Bakery", "image": "images/khari.jpg" },
-  { "name": "Pista Toast", "category": "Bakery", "image": "images/pistatoast.jpg" },
-
-  { "name": "Candies", "category": "Sweets", "image": "images/candies.jpg" },
-  { "name": "Chocolates", "category": "Sweets", "image": "images/chocolate.jpg" },
-
-  { "name": "Balaji Chips", "category": "Snacks", "image": "images/balaji.jpg" },
-
-  { "name": "Fair & Lovely Cream", "category": "Beauty", "image": "images/cream.jpg" },
-  { "name": "Vicco Cream", "category": "Beauty", "image": "images/vicco.jpg" },
-  { "name": "Ponds Cream", "category": "Beauty", "image": "images/ponds.jpg" },
-  { "name": "Ponds Powder", "category": "Beauty", "image": "images/powder.jpg" },
-  { "name": "Rich Cream", "category": "Beauty", "image": "images/richcream.jpg" },
-
-  { "name": "Nisha Mehendi", "category": "Beauty", "image": "images/mehendi.jpg" },
-  { "name": "Zandu Balm", "category": "Health", "image": "images/zandu.jpg" },
-
-  { "name": "Shampoo Sachet", "category": "Hygiene", "image": "images/shampoo.jpg" },
-
-  { "name": "Eggs", "category": "Dairy", "image": "images/eggs.jpg" },
-
-  { "name": "Shengdana (Peanuts)", "category": "Dry Fruits", "image": "images/peanuts.jpg" },
-  { "name": "Masoor Dal", "category": "Groceries", "image": "images/masoordal.jpg" },
-  { "name": "Moong Dal", "category": "Groceries", "image": "images/moongdal.jpg" },
-  { "name": "Sabudana", "category": "Groceries", "image": "images/sabudana.jpg" },
-  { "name": "Toor Dal", "category": "Groceries", "image": "images/toordal.jpg" },
-  { "name": "Urad Dal", "category": "Groceries", "image": "images/uraddal.jpg" },
-  { "name": "Kala Chana", "category": "Groceries", "image": "images/chana.jpg" },
-  { "name": "White Chana", "category": "Groceries", "image": "images/whitechana.jpg" },
-
-  { "name": "Tea", "category": "Beverages", "image": "images/tea.jpg" },
-  { "name": "Bru Coffee", "category": "Beverages", "image": "images/bru.jpg" },
-
-  { "name": "Rice (Sharda Chand Tara)", "category": "Groceries", "image": "images/rice.jpg" },
-  { "name": "Bajra", "category": "Groceries", "image": "images/bajra.jpg" },
-  { "name": "Wheat", "category": "Groceries", "image": "images/wheat.jpg" },
-  { "name": "Sugar", "category": "Groceries", "image": "images/sugar.jpg" },
-
-  { "name": "Soybean Oil", "category": "Oil", "image": "images/oil.jpg" },
-
-  { "name": "Coconut Water", "category": "Beverages", "image": "images/coconut.jpg" },
-  { "name": "Pomegranate Juice", "category": "Beverages", "image": "images/juice.jpg" },
-
-  { "name": "Energy Drink", "category": "Beverages", "image": "images/energy.jpg" },
-
-  { "name": "Pampers S", "category": "Baby Care", "image": "images/pampers.jpg" },
-  { "name": "Pampers M", "category": "Baby Care", "image": "images/pampers.jpg" },
-  { "name": "Pampers L", "category": "Baby Care", "image": "images/pampers.jpg" },
-
-  { "name": "Battery Mini", "category": "Electronics", "image": "images/battery.jpg" },
-
-  { "name": "JJ Sweets", "category": "Sweets", "image": "images/sweets.jpg" }
-][
   {
     "id": 1,
     "name": "Colgate Strong Teeth",
@@ -134,50 +68,77 @@
     "category": "Flour",
     "image": "images/fortune-atta.jpg",
     "description": "Premium wheat flour"
-  }
-
-  // ... Products 11–50 isi format me rahenge
-],
-{
-  "id": 11,
-  "name": "Surf Excel Matic",
-  "category": "Detergent",
-  "image": "images/surf-excel-matic.jpg",
-  "description": "Washing machine detergent"
-},
-{
-  "id": 12,
-  "name": "Surf Excel Easy Wash",
-  "category": "Detergent",
-  "image": "images/surf-excel-easywash.jpg",
-  "description": "Detergent powder"
-},
-{
-  "id": 13,
-  "name": "Ariel Detergent Powder",
-  "category": "Detergent",
-  "image": "images/ariel-powder.jpg",
-  "description": "Laundry detergent"
-},
-{
-  "id": 14,
-  "name": "Tide Plus",
-  "category": "Detergent",
-  "image": "images/tide-plus.jpg",
-  "description": "Detergent powder"
-},
-{
-  "id": 15,
-  "name": "Ghadi Detergent",
-  "category": "Detergent",
-  "image": "images/ghadi-detergent.jpg",
-  "description": "Laundry detergent"
-},
-{
-  "id": 16,
-  "name": "Rin Detergent Bar",
-  "category": "Detergent",
-  "image": "images/rin,
+  },
+  {
+    "id": 11,
+    "name": "Surf Excel Matic",
+    "category": "Detergent",
+    "image": "images/surf-excel-matic.jpg",
+    "description": "Washing machine detergent"
+  },
+  {
+    "id": 12,
+    "name": "Surf Excel Easy Wash",
+    "category": "Detergent",
+    "image": "images/surf-excel-easywash.jpg",
+    "description": "Detergent powder"
+  },
+  {
+    "id": 13,
+    "name": "Ariel Detergent Powder",
+    "category": "Detergent",
+    "image": "images/ariel-powder.jpg",
+    "description": "Laundry detergent"
+  },
+  {
+    "id": 14,
+    "name": "Tide Plus",
+    "category": "Detergent",
+    "image": "images/tide-plus.jpg",
+    "description": "Detergent powder"
+  },
+  {
+    "id": 15,
+    "name": "Ghadi Detergent",
+    "category": "Detergent",
+    "image": "images/ghadi-detergent.jpg",
+    "description": "Laundry detergent"
+  },
+  {
+    "id": 16,
+    "name": "Rin Detergent Bar",
+    "category": "Detergent",
+    "image": "images/rin-bar.jpg",
+    "description": "Detergent bar"
+  },
+  {
+    "id": 17,
+    "name": "Wheel Detergent",
+    "category": "Detergent",
+    "image": "images/wheel-detergent.jpg",
+    "description": "Detergent powder"
+  },
+  {
+    "id": 18,
+    "name": "Vim Dishwash Bar",
+    "category": "Dishwash",
+    "image": "images/vim-bar.jpg",
+    "description": "Dishwash bar"
+  },
+  {
+    "id": 19,
+    "name": "Vim Liquid",
+    "category": "Dishwash",
+    "image": "images/vim-liquid.jpg",
+    "description": "Dishwashing liquid"
+  },
+  {
+    "id": 20,
+    "name": "Exo Dishwash Bar",
+    "category": "Dishwash",
+    "image": "images/exo-bar.jpg",
+    "description": "Dishwash cake"
+  },
 {
   "id": 21,
   "name": "Lux Soap",
@@ -208,7 +169,46 @@
 },
 {
   "id": 25,
-  "name": ",
+  "name": "Cinthol Soap",
+  "category": "Soap",
+  "image": "images/cinthol-soap.jpg",
+  "description": "Fresh bathing soap"
+},
+{
+  "id": 26,
+  "name": "Dettol Soap",
+  "category": "Soap",
+  "image": "images/dettol-soap.jpg",
+  "description": "Antibacterial soap"
+},
+{
+  "id": 27,
+  "name": "Pears Soap",
+  "category": "Soap",
+  "image": "images/pears-soap.jpg",
+  "description": "Glycerine soap"
+},
+{
+  "id": 28,
+  "name": "Medimix Soap",
+  "category": "Soap",
+  "image": "images/medimix-soap.jpg",
+  "description": "Ayurvedic soap"
+},
+{
+  "id": 29,
+  "name": "Godrej No.1 Soap",
+  "category": "Soap",
+  "image": "images/godrej-no1-soap.jpg",
+  "description": "Bathing soap"
+},
+{
+  "id": 30,
+  "name": "Hamam Soap",
+  "category": "Soap",
+  "image": "images/hamam-soap.jpg",
+  "description": "Neem and Tulsi soap"
+},
 {
   "id": 31,
   "name": "Parle-G",
@@ -249,7 +249,7 @@
   "name": "Marie Gold",
   "category": "Biscuits",
   "image": "images/marie-gold.jpg",
-  "description": "Light tea biscuits"
+  "description": "Tea biscuits"
 },
 {
   "id": 37,
@@ -294,13 +294,59 @@
   "description": "Soft sliced bread"
 },
 {
-  "id": ,
+  "id": 43,
+  "name": "Britannia Brown Bread",
+  "category": "Bread",
+  "image": "images/britannia-brown-bread.jpg",
+  "description": "Healthy brown bread"
+},
+{
+  "id": 44,
+  "name": "Britannia Toast",
+  "category": "Toast",
+  "image": "images/britannia-toast.jpg",
+  "description": "Crispy toast"
+},
+{
+  "id": 45,
+  "name": "Deluxe Toast",
+  "category": "Toast",
+  "image": "images/deluxe-toast.jpg",
+  "description": "Premium toast"
+},
+{
+  "id": 46,
+  "name": "Khari",
+  "category": "Bakery",
+  "image": "images/khari.jpg",
+  "description": "Crispy khari"
+},
+{
+  "id": 47,
 {
   "id": 51,
   "name": "Cadbury Dairy Milk",
   "category": "Chocolate",
   "image": "images/dairy-milk.jpg",
-  "description": "Milk chocolate",
+  "description": "Milk chocolate"
+},
+{
+  "id": 52,
+  "name": "KitKat",
+  "category": "Chocolate",
+  "image": "images/kitkat.jpg",
+  "description": "Chocolate wafer"
+},
+{
+  "id": 53,
+  "name": "5 Star",
+  "category": "Chocolate",
+  "image": "images/5star.jpg",
+  "description": "Caramel chocolate"
+},
+{
+  "id": 54,
+  "name": ",
 {
   "id": 61,
   "name": "Balaji Wafers Simply Salted",
@@ -339,38 +385,7 @@
 {
   "id": 66,
   "name": "Kurkure Masala Munch",
-  "category": "Snacks",
-  "image": "images/kurkure-masala-munch.jpg",
-  "description": "Crunchy masala snack"
-},
-{
-  "id": 67,
-  "name": "Bingo Mad Angles",
-  "category": "Snacks",
-  "image": "images/bingo-mad-angles.jpg",
-  "description": "Triangle corn snack"
-},
-{
-  "id": 68,
-  "name": "Uncle Chipps",
-  "category": "Chips",
-  "image": "images/uncle-chipps.jpg",
-  "description": "Classic potato chips"
-},
-{
-  "id": 69,
-  "name": "Haldiram Aloo Bhujia",
-  "category": "Namkeen",
-  "image": "images/haldiram-aloo-bhujia.jpg",
-  "description": "Spicy potato namkeen"
-},
-{
-  "id": 70,
-  "name": "Balaji Ratlami Sev",
-  "category": "Namkeen",
-  "image": "images/balaji-ratlami-sev.jpg",
-  "description": "Spicy Ratlami sev"
-},
+  "category": ",
 {
   "id": 71,
   "name": "Everest Turmeric Powder",
@@ -396,7 +411,51 @@
   "id": 74,
   "name": "MDH Garam Masala",
   "category": "Spices",
-  "image": "images/mdh-garam,
+  "image": "images/mdh-garam-masala.jpg",
+  "description": "Premium garam masala"
+},
+{
+  "id": 75,
+  "name": "MDH Kitchen King",
+  "category": "Spices",
+  "image": "images/mdh-kitchen-king.jpg",
+  "description": "Mixed spice blend"
+},
+{
+  "id": 76,
+  "name": "Catch Black Pepper",
+  "category": "Spices",
+  "image": "images/catch-black-pepper.jpg",
+  "description": "Black pepper powder"
+},
+{
+  "id": 77,
+  "name": "Tata Sampann Chana Masala",
+  "category": "Spices",
+  "image": "images/tata-sampann-chana-masala.jpg",
+  "description": "Chana masala"
+},
+{
+  "id": 78,
+  "name": "Badshah Pav Bhaji Masala",
+  "category": "Spices",
+  "image": "images/badshah-pav-bhaji-masala.jpg",
+  "description": "Pav bhaji spice mix"
+},
+{
+  "id": 79,
+  "name": "Everest Meat Masala",
+  "category": "Spices",
+  "image": "images/everest-meat-masala.jpg",
+  "description": "Meat spice mix"
+},
+{
+  "id": 80,
+  "name": "Tata Salt",
+  "category": "Groceries",
+  "image": "images/tata-salt.jpg",
+  "description": "Iodized salt"
+},
 {
   "id": 81,
   "name": "Kohinoor Basmati Rice",
@@ -405,7 +464,17 @@
   "description": "Premium basmati rice"
 },
 {
-  "id": ,
+  "id": 82,
+  "name": "India Gate Basmati Rice",
+  "category": "Rice",
+  "image": "images/india-gate-basmati.jpg",
+  "description": "Long grain basmati rice"
+},
+{
+  "id": 83,
+  "name": "Daawat Basmati Rice",
+  "category": "Rice",
+  "image": "images/daawat-basm,
 {
   "id": 91,
   "name": "Ponds Dreamflower Talc",
@@ -430,139 +499,268 @@
 {
   "id": 94,
   "name": "Vicco Turmeric Cream",
- ,
+  "category": "Beauty",
+  "image": "images/vicco-turmeric-cream.jpg",
+  "description": "Ayurvedic face cream"
+},
+{
+  "id": 95,
+  "name": "Nisha Mehendi",
+  "category": "Beauty",
+  "image": "images/nisha-mehendi.jpg",
+  "description": "Hair mehendi"
+},
+{
+  "id": 96,
+  "name": "Zandu Balm",
+  "category": "Health",
+  "image": "images/zandu-balm.jpg",
+  "description": "Pain relief balm"
+},
+{
+  "id": 97,
+  "name": "Moov Pain Relief Cream",
+  "category": "Health",
+  "image": "images/moov-cream.jpg",
+  "description": "Muscle pain relief"
+},
+{
+  "id": 98,
+  "name": "Vicks Vaporub",
+  "category": "Health",
+  "image": "images/vicks-vaporub.jpg",
+  "description": "Cold relief balm"
+},
+{
+  "id": 99,
+  "name": "Himalaya Neem Face Wash",
+  "category": "Beauty",
+  "image": "images/himalaya-neem-facewash.jpg",
+  "description": "Neem face wash"
+},
+{
+  "id": 100,
+  "name": "Clinic Plus Shampoo",
+,
 {
   "id": 101,
-  "name": "Clinic Plus Shampoo",
+  "name": "Sunsilk Black Shine Shampoo",
   "category": "Hair Care",
-  "image": "images/clinic-plus-shampoo.jpg",
-  "description": "Daily care shampoo"
+  "image": "images/sunsilk-black-shine.jpg",
+  "description": "Shampoo for shiny hair"
 },
 {
   "id": 102,
-  "name": "Sunsilk Black Shine Shampoo",
+  "name": "Dove Shampoo",
   "category": "Hair Care",
-  "image": "images/suns,
+  "image": "images/dove-shampoo.jpg",
+  "description": "Moisturizing shampoo"
+},
 {
-  "id": 111,
+  "id": 103,
+  "name": "Head & Shoulders Shampoo",
+  "category": "Hair Care",
+  "image": "images/head-shoulders.jpg",
+  "description": "Anti dandruff shampoo"
+},
+{
+  "id": 104,
+  "name": "Clinic Plus Strong & Long",
+  "category": "Hair Care",
+  "image": "images/clinic-plus-strong-long.jpg",
+  "description": "Hair strength shampoo"
+},
+{
+  "id": 105,
+  "name": "Pantene Shampoo",
+  "category": "Hair Care",
+  "image": "images/pantene-shampoo.jpg",
+  "description": "Smooth care shampoo"
+},
+{
+  "id": 106,
+  "name": "Parachute Coconut Oil",
+  "category": "Hair Care",
+  "image": "images/parachute-oil.jpg",
+  "description": "Pure coconut hair oil"
+},
+{
+  "id": 107,
+  "name": "Dabur Amla Oil",
+  "category": "Hair Care",
+  "image": "images/dabur-amla-oil.jpg",
+  "description": "Amla hair oil"
+},
+{
+  "id": 108,
+  "name": "Bajaj Almond Drops Oil",
+  "category": "Hair Care",
+  "image": "images/bajaj-almond-oil.jpg",
+  "description": "Almond hair oil"
+},
+{
+  "id": 109,
   "name": "Tata Tea Gold",
   "category": "Beverages",
   "image": "images/tata-tea-gold.jpg",
   "description": "Premium tea"
 },
 {
+  "id": 110,
+  "name": "Brooke Bond Red Label",
+  "category": "Beverages",
+  "image": "images/red-label-tea.jpg",
+  "description": "Strong tea"
+},
+{
+  "id": 111,
+  "name": "Bru Instant Coffee",
+  "category": "Beverages",
+  "image": "images/bru-instant-coffee.jpg",
+  "description": "Instant coffee"
+},
+{
   "id": 112,
+  "name": "Nescafe Classic Coffee",
+  "category": "Beverages",
+  "image": "images/nescafe-classic.jpg",
+  "description": "Classic instant coffee"
+},
+{
+  "id": 113,
+  "name": "Horlicks",
+  "category": "Health Drink",
+  "image": "images/horlicks.jpg",
+  "description": "Malt health drink"
+},
+{
+  "id": 114,
+  "name": "Bournvita",
+  "category": "Health Drink",
+  "image": "images/bournvita.jpg",
+  "description": "Chocolate health drink"
+},
+{
+  "id": 115,
+  "name": "Complan",
+  "category": "Health Drink",
+  "image": "images/complan.jpg",
+  "description": "Nutrition,
 {
   "id": 121,
-  "name": "Fortune Sunlite Oil",
-  "category": "Cooking Oil",
-  "image": "images/fortune-sunlite-oil.jpg",
-  "description": "Refined sunflower oil"
-},
-{
-  "id": 122,
-  "name": "Fortune Soyabean Oil",
-  "category": "Cooking Oil",
-  "image": "images/fortune-soyabean-oil.jpg",
-  "description": "Refined soyabean oil"
-},
-{
-  "id": 123,
-  "name": "Saffola Gold Oil",
-  "category": "Cooking Oil",
-  "image": "images/saffola-gold-oil.jpg",
-  "description": "Blended edible oil"
-},
-{
-  "id": 124,
-  "name": "Sundrop Oil",
-  "category": "Cooking Oil",
-  "image": "images/sundrop-oil.jpg",
-  "description": "Refined sunflower oil"
-},
-{
-  "id": 125,
-  "name": "Dhara Mustard Oil",
-  "category": ",
-{
-  "id": 131,
   "name": "Maggi 2-Minute Noodles",
   "category": "Instant Food",
   "image": "images/maggi-2-minute-noodles.jpg",
   "description": "Instant masala noodles"
 },
 {
-  "id": 132,
+  "id": 122,
   "name": "Sunfeast Yippee Magic Masala",
-  "category": "Instant,
+  "category": "Instant Food",
+  "image": "images/yippee-magic-masala.jpg",
+  "description": "Instant noodles"
+},
 {
-  "id": 141,
+  "id": 123,
+  "name": "Top Ramen Noodles",
+  "category": "Instant Food",
+  "image": "images/top-ramen.jpg",
+  "description": "Instant noodles"
+},
+{
+  "id": 124,
+  "name": "Knorr Soup",
+  "category": "Instant Food",
+  "image": "images/knorr-soup.jpg",
+  "description": "Instant soup"
+},
+{
+  "id": 125,
   "name": "Amul Taaza Milk",
   "category": "Dairy",
-  "image": "images/amul-taaza-milk.jpg",
-  "description": "Fresh toned milk"
+  ",
+{
+  "id": 131,
+  "name": "Coca-Cola",
+  "category": "Soft Drinks",
+  "image": "images/coca-cola.jpg",
+  "description": "Cold drink"
+},
+{
+  "id": 132,
+  "name": "Pepsi",
+  "category": "Soft Drinks",
+  "image": "images/pepsi.jpg",
+  "description": "Carbonated drink"
+},
+{
+  "id": 133,
+  "name": "Thums Up",
+  "category": "Soft Drinks",
+  "image": "images/thums-up.jpg",
+  "description": "Strong cola drink"
+},
+{
+  "id": 134,
+  "name": "Sprite",
+  "category": "Soft Drinks",
+  "image": "images/sprite.jpg",
+  "description": "Lemon flavour drink"
+},
+{
+  "id": 135,
+  "name": "Fanta",
+  "category": "Soft Drinks",
+  "image": "images/fanta.jpg",
+  "description": "Orange flavour drink"
+},
+{
+  "id": 136,
+  "name": "Maaza Mango Drink",
+  "category": "Juice",
+  "image": "images/maaza.jpg",
+  "description": "Mango juice drink"
+},
+{
+  "id": 137,
+  "name": "Real,
+{
+  "id": 141,
+  "name": "Pampers Small",
+  "category": "Baby Care",
+  "image": "images/pampers-small.jpg",
+  "description": "Baby diaper small size"
 },
 {
   "id": 142,
-  "name": "Amul Gold Milk",
-  "category": "Dairy",
-  "image": "images/amul-gold-milk.jpg",
-  "description": "Full cream milk"
+  "name": "Pampers Medium",
+  "category": "Baby Care",
+  "image": "images/pampers-medium.jpg",
+  "description": "Baby diaper medium size"
 },
 {
   "id": 143,
-  "name": "Mother Dairy Full Cream Milk",
-  "category": "Dairy",
-  "image": "images/mother-dairy-full-cream.jpg",
-  "description": "Fresh full cream milk"
+  "name": "Pampers Large",
+  "category": "Baby Care",
+  "image": "images/pampers-large.jpg",
+  "description": "Baby diaper large size"
 },
 {
   "id": 144,
-  "name": "Amul Cheese Slices",
-  "category": "Dairy",
-  "image": "images/amul-cheese-slices.jpg",
-  "description": "Processed cheese slices"
+  "name": "Johnson Baby Powder",
+  "category": "Baby Care",
+  "image": "images/johnson-baby-powder.jpg",
+  "description": "Baby care powder"
 },
 {
   "id": 145,
-  "name": "Amul Fresh Cream",
-  "category": "Dairy",
-  "image": "images/amul-fresh-cream.jpg",
-  "description": "Fresh dairy cream"
+  "name": "Johnson Baby Oil",
+  "category": "Baby Care",
+  "image": "images/johnson-baby-oil.jpg",
+  "description": "Baby massage oil"
 },
 {
   "id": 146,
-  "name": "Coca-Cola",
-  "category": "Soft Drinks",
-  "image": "images
-},
-{
-  "id": 52,
-  "name": "KitKat",
-  "category": "Chocolate",
-  "image": "images/kitkat.jpg",
-  "description": "Chocolate wafer"
-},
-{
-  "id": 53,
-  "name": "5 Star",
-  "category": "Chocolate",
-  "image": "images/5star.jpg",
-  "description": "Caramel chocolate"
-},
-{
-  "id": 54,
-  "name": "Perk",
-  "category": "Chocolate",
-  "image": "images/perk.jpg",
-  "description": "Crispy wafer chocolate"
-},
-{
-  "id": 55,
-  "name": "Munch",
-  "category": "Chocolate",
-  "image": "images/munch.jpg",
-  "description": "Crunchy wafer chocolate"
-},
-{
-  "
+  "name": "Nestle Cerelac",
+  "category": "Baby Food",
+  "image": "
