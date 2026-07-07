@@ -64,4 +64,505 @@
   { "name": "Battery Mini", "category": "Electronics", "image": "images/battery.jpg" },
 
   { "name": "JJ Sweets", "category": "Sweets", "image": "images/sweets.jpg" }
-]
+][
+  {
+    "id": 1,
+    "name": "Colgate Strong Teeth",
+    "category": "Toothpaste",
+    "image": "images/colgate-strong-teeth.jpg",
+    "description": "Strong teeth toothpaste"
+  },
+  {
+    "id": 2,
+    "name": "Colgate MaxFresh",
+    "category": "Toothpaste",
+    "image": "images/colgate-maxfresh.jpg",
+    "description": "Fresh breath toothpaste"
+  },
+  {
+    "id": 3,
+    "name": "Pepsodent Germicheck",
+    "category": "Toothpaste",
+    "image": "images/pepsodent-germicheck.jpg",
+    "description": "Daily protection toothpaste"
+  },
+  {
+    "id": 4,
+    "name": "Closeup Red Hot",
+    "category": "Toothpaste",
+    "image": "images/closeup-redhot.jpg",
+    "description": "Gel toothpaste"
+  },
+  {
+    "id": 5,
+    "name": "Oral-B Toothbrush",
+    "category": "Toothbrush",
+    "image": "images/oralb-brush.jpg",
+    "description": "Soft toothbrush"
+  },
+  {
+    "id": 6,
+    "name": "Colgate Toothbrush",
+    "category": "Toothbrush",
+    "image": "images/colgate-brush.jpg",
+    "description": "Medium toothbrush"
+  },
+  {
+    "id": 7,
+    "name": "Sensodyne Toothpaste",
+    "category": "Toothpaste",
+    "image": "images/sensodyne.jpg",
+    "description": "Sensitive teeth toothpaste"
+  },
+  {
+    "id": 8,
+    "name": "Vicco Vajradanti",
+    "category": "Toothpaste",
+    "image": "images/vicco-vajradanti.jpg",
+    "description": "Ayurvedic toothpaste"
+  },
+  {
+    "id": 9,
+    "name": "Aashirvaad Atta",
+    "category": "Flour",
+    "image": "images/aashirvaad-atta.jpg",
+    "description": "Whole wheat flour"
+  },
+  {
+    "id": 10,
+    "name": "Fortune Atta",
+    "category": "Flour",
+    "image": "images/fortune-atta.jpg",
+    "description": "Premium wheat flour"
+  }
+
+  // ... Products 11–50 isi format me rahenge
+],
+{
+  "id": 11,
+  "name": "Surf Excel Matic",
+  "category": "Detergent",
+  "image": "images/surf-excel-matic.jpg",
+  "description": "Washing machine detergent"
+},
+{
+  "id": 12,
+  "name": "Surf Excel Easy Wash",
+  "category": "Detergent",
+  "image": "images/surf-excel-easywash.jpg",
+  "description": "Detergent powder"
+},
+{
+  "id": 13,
+  "name": "Ariel Detergent Powder",
+  "category": "Detergent",
+  "image": "images/ariel-powder.jpg",
+  "description": "Laundry detergent"
+},
+{
+  "id": 14,
+  "name": "Tide Plus",
+  "category": "Detergent",
+  "image": "images/tide-plus.jpg",
+  "description": "Detergent powder"
+},
+{
+  "id": 15,
+  "name": "Ghadi Detergent",
+  "category": "Detergent",
+  "image": "images/ghadi-detergent.jpg",
+  "description": "Laundry detergent"
+},
+{
+  "id": 16,
+  "name": "Rin Detergent Bar",
+  "category": "Detergent",
+  "image": "images/rin,
+{
+  "id": 21,
+  "name": "Lux Soap",
+  "category": "Soap",
+  "image": "images/lux-soap.jpg",
+  "description": "Beauty soap"
+},
+{
+  "id": 22,
+  "name": "Lifebuoy Soap",
+  "category": "Soap",
+  "image": "images/lifebuoy-soap.jpg",
+  "description": "Health soap"
+},
+{
+  "id": 23,
+  "name": "Dove Soap",
+  "category": "Soap",
+  "image": "images/dove-soap.jpg",
+  "description": "Moisturizing beauty soap"
+},
+{
+  "id": 24,
+  "name": "Santoor Soap",
+  "category": "Soap",
+  "image": "images/santoor-soap.jpg",
+  "description": "Sandal and turmeric soap"
+},
+{
+  "id": 25,
+  "name": ",
+{
+  "id": 31,
+  "name": "Parle-G",
+  "category": "Biscuits",
+  "image": "images/parle-g.jpg",
+  "description": "Glucose biscuits"
+},
+{
+  "id": 32,
+  "name": "Monaco",
+  "category": "Biscuits",
+  "image": "images/monaco.jpg",
+  "description": "Salted biscuits"
+},
+{
+  "id": 33,
+  "name": "Krackjack",
+  "category": "Biscuits",
+  "image": "images/krackjack.jpg",
+  "description": "Sweet and salty biscuits"
+},
+{
+  "id": 34,
+  "name": "Hide & Seek",
+  "category": "Biscuits",
+  "image": "images/hide-seek.jpg",
+  "description": "Chocolate chip biscuits"
+},
+{
+  "id": 35,
+  "name": "Good Day Butter",
+  "category": "Biscuits",
+  "image": "images/good-day-butter.jpg",
+  "description": "Butter biscuits"
+},
+{
+  "id": 36,
+  "name": "Marie Gold",
+  "category": "Biscuits",
+  "image": "images/marie-gold.jpg",
+  "description": "Light tea biscuits"
+},
+{
+  "id": 37,
+  "name": "50-50",
+  "category": "Biscuits",
+  "image": "images/50-50.jpg",
+  "description": "Sweet and salty biscuits"
+},
+{
+  "id": 38,
+  "name": "Milk Bikis",
+  "category": "Biscuits",
+  "image": "images/milk-bikis.jpg",
+  "description": "Milk biscuits"
+},
+{
+  "id": 39,
+  "name": "Tiger Biscuits",
+  "category": "Biscuits",
+  "image": "images/tiger-biscuits.jpg",
+  "description": "Nutritious biscuits"
+},
+{
+  "id": 40,
+  "name": "Bourbon",
+  "category": "Biscuits",
+  "image": "images/bourbon.jpg",
+  "description": "Chocolate cream biscuits"
+},
+{
+  "id": 41,
+  "name": "Britannia Bread",
+  "category": "Bread",
+  "image": "images/britannia-bread.jpg",
+  "description": "Fresh white bread"
+},
+{
+  "id": 42,
+  "name": "Modern Bread",
+  "category": "Bread",
+  "image": "images/modern-bread.jpg",
+  "description": "Soft sliced bread"
+},
+{
+  "id": ,
+{
+  "id": 51,
+  "name": "Cadbury Dairy Milk",
+  "category": "Chocolate",
+  "image": "images/dairy-milk.jpg",
+  "description": "Milk chocolate",
+{
+  "id": 61,
+  "name": "Balaji Wafers Simply Salted",
+  "category": "Chips",
+  "image": "images/balaji-simply-salted.jpg",
+  "description": "Classic salted potato chips"
+},
+{
+  "id": 62,
+  "name": "Balaji Masala Masti",
+  "category": "Chips",
+  "image": "images/balaji-masala-masti.jpg",
+  "description": "Spicy potato chips"
+},
+{
+  "id": 63,
+  "name": "Balaji Tomato Masti",
+  "category": "Chips",
+  "image": "images/balaji-tomato-masti.jpg",
+  "description": "Tomato flavour chips"
+},
+{
+  "id": 64,
+  "name": "Lay's Classic Salted",
+  "category": "Chips",
+  "image": "images/lays-classic.jpg",
+  "description": "Classic salted potato chips"
+},
+{
+  "id": 65,
+  "name": "Lay's Magic Masala",
+  "category": "Chips",
+  "image": "images/lays-magic-masala.jpg",
+  "description": "Magic Masala flavoured chips"
+},
+{
+  "id": 66,
+  "name": "Kurkure Masala Munch",
+  "category": "Snacks",
+  "image": "images/kurkure-masala-munch.jpg",
+  "description": "Crunchy masala snack"
+},
+{
+  "id": 67,
+  "name": "Bingo Mad Angles",
+  "category": "Snacks",
+  "image": "images/bingo-mad-angles.jpg",
+  "description": "Triangle corn snack"
+},
+{
+  "id": 68,
+  "name": "Uncle Chipps",
+  "category": "Chips",
+  "image": "images/uncle-chipps.jpg",
+  "description": "Classic potato chips"
+},
+{
+  "id": 69,
+  "name": "Haldiram Aloo Bhujia",
+  "category": "Namkeen",
+  "image": "images/haldiram-aloo-bhujia.jpg",
+  "description": "Spicy potato namkeen"
+},
+{
+  "id": 70,
+  "name": "Balaji Ratlami Sev",
+  "category": "Namkeen",
+  "image": "images/balaji-ratlami-sev.jpg",
+  "description": "Spicy Ratlami sev"
+},
+{
+  "id": 71,
+  "name": "Everest Turmeric Powder",
+  "category": "Spices",
+  "image": "images/everest-turmeric.jpg",
+  "description": "Pure turmeric powder"
+},
+{
+  "id": 72,
+  "name": "Everest Red Chilli Powder",
+  "category": "Spices",
+  "image": "images/everest-red-chilli.jpg",
+  "description": "Hot red chilli powder"
+},
+{
+  "id": 73,
+  "name": "Everest Coriander Powder",
+  "category": "Spices",
+  "image": "images/everest-coriander.jpg",
+  "description": "Fresh coriander powder"
+},
+{
+  "id": 74,
+  "name": "MDH Garam Masala",
+  "category": "Spices",
+  "image": "images/mdh-garam,
+{
+  "id": 81,
+  "name": "Kohinoor Basmati Rice",
+  "category": "Rice",
+  "image": "images/kohinoor-basmati-rice.jpg",
+  "description": "Premium basmati rice"
+},
+{
+  "id": ,
+{
+  "id": 91,
+  "name": "Ponds Dreamflower Talc",
+  "category": "Personal Care",
+  "image": "images/ponds-dreamflower-talc.jpg",
+  "description": "Fragrant talcum powder"
+},
+{
+  "id": 92,
+  "name": "Ponds Light Moisturizer",
+  "category": "Personal Care",
+  "image": "images/ponds-light-moisturizer.jpg",
+  "description": "Daily moisturizing cream"
+},
+{
+  "id": 93,
+  "name": "Glow & Lovely Cream",
+  "category": "Beauty",
+  "image": "images/glow-lovely-cream.jpg",
+  "description": "Daily face cream"
+},
+{
+  "id": 94,
+  "name": "Vicco Turmeric Cream",
+ ,
+{
+  "id": 101,
+  "name": "Clinic Plus Shampoo",
+  "category": "Hair Care",
+  "image": "images/clinic-plus-shampoo.jpg",
+  "description": "Daily care shampoo"
+},
+{
+  "id": 102,
+  "name": "Sunsilk Black Shine Shampoo",
+  "category": "Hair Care",
+  "image": "images/suns,
+{
+  "id": 111,
+  "name": "Tata Tea Gold",
+  "category": "Beverages",
+  "image": "images/tata-tea-gold.jpg",
+  "description": "Premium tea"
+},
+{
+  "id": 112,
+{
+  "id": 121,
+  "name": "Fortune Sunlite Oil",
+  "category": "Cooking Oil",
+  "image": "images/fortune-sunlite-oil.jpg",
+  "description": "Refined sunflower oil"
+},
+{
+  "id": 122,
+  "name": "Fortune Soyabean Oil",
+  "category": "Cooking Oil",
+  "image": "images/fortune-soyabean-oil.jpg",
+  "description": "Refined soyabean oil"
+},
+{
+  "id": 123,
+  "name": "Saffola Gold Oil",
+  "category": "Cooking Oil",
+  "image": "images/saffola-gold-oil.jpg",
+  "description": "Blended edible oil"
+},
+{
+  "id": 124,
+  "name": "Sundrop Oil",
+  "category": "Cooking Oil",
+  "image": "images/sundrop-oil.jpg",
+  "description": "Refined sunflower oil"
+},
+{
+  "id": 125,
+  "name": "Dhara Mustard Oil",
+  "category": ",
+{
+  "id": 131,
+  "name": "Maggi 2-Minute Noodles",
+  "category": "Instant Food",
+  "image": "images/maggi-2-minute-noodles.jpg",
+  "description": "Instant masala noodles"
+},
+{
+  "id": 132,
+  "name": "Sunfeast Yippee Magic Masala",
+  "category": "Instant,
+{
+  "id": 141,
+  "name": "Amul Taaza Milk",
+  "category": "Dairy",
+  "image": "images/amul-taaza-milk.jpg",
+  "description": "Fresh toned milk"
+},
+{
+  "id": 142,
+  "name": "Amul Gold Milk",
+  "category": "Dairy",
+  "image": "images/amul-gold-milk.jpg",
+  "description": "Full cream milk"
+},
+{
+  "id": 143,
+  "name": "Mother Dairy Full Cream Milk",
+  "category": "Dairy",
+  "image": "images/mother-dairy-full-cream.jpg",
+  "description": "Fresh full cream milk"
+},
+{
+  "id": 144,
+  "name": "Amul Cheese Slices",
+  "category": "Dairy",
+  "image": "images/amul-cheese-slices.jpg",
+  "description": "Processed cheese slices"
+},
+{
+  "id": 145,
+  "name": "Amul Fresh Cream",
+  "category": "Dairy",
+  "image": "images/amul-fresh-cream.jpg",
+  "description": "Fresh dairy cream"
+},
+{
+  "id": 146,
+  "name": "Coca-Cola",
+  "category": "Soft Drinks",
+  "image": "images
+},
+{
+  "id": 52,
+  "name": "KitKat",
+  "category": "Chocolate",
+  "image": "images/kitkat.jpg",
+  "description": "Chocolate wafer"
+},
+{
+  "id": 53,
+  "name": "5 Star",
+  "category": "Chocolate",
+  "image": "images/5star.jpg",
+  "description": "Caramel chocolate"
+},
+{
+  "id": 54,
+  "name": "Perk",
+  "category": "Chocolate",
+  "image": "images/perk.jpg",
+  "description": "Crispy wafer chocolate"
+},
+{
+  "id": 55,
+  "name": "Munch",
+  "category": "Chocolate",
+  "image": "images/munch.jpg",
+  "description": "Crunchy wafer chocolate"
+},
+{
+  "
