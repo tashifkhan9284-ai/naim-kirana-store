@@ -43,4 +43,6 @@ input{display:block;width:90%;max-width:500px;margin:15px auto;padding:10px;bord
 <script>
 const all=[...document.querySelectorAll('.card')];
 q.oninput=e=>{let t=e.target.value.toLowerCase();all.forEach(c=>c.style.display=c.innerText.toLowerCase().includes(t)?'block':'none');};
-</script></body></html>
+</script></body></html><img src="${product.image}"
+     alt="${product.name}"
+     onerror="this.onerror=null;this.src='images/no-image.png';">
